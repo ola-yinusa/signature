@@ -1,0 +1,27 @@
+{
+  "name": "signature",
+  "version": "1.0.0",
+  "description": "Lekki Avana Signature landing page with Vercel Speed Insights",
+  "main": "index.js",
+  "scripts": {
+    "build": "vite build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ola-yinusa/signature.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ola-yinusa/signature/issues"
+  },
+  "homepage": "https://github.com/ola-yinusa/signature#readme",
+  "dependencies": {
+    "@vercel/speed-insights": "^2.0.0"
+  },
+  "devDependencies": {
+    "vite": "^8.2.2"
+  }
+}
